@@ -1,1 +1,2 @@
-test repo new file
+test repo new
+new line for second commit
